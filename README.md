@@ -168,7 +168,7 @@ The topology visualization provided a graphical representation of the discovered
 ![Networkwalks Week 2 Screenshot 6](screenshots/2026-11-11_23-53.png)
 ![Networkwalks Week 2 Screenshot 7](screenshots/2026-11-11_23-55.png)
 ![Networkwalks Week 2 Screenshot 8](screenshots/2026-11-11_23-57.png)
-
+![Networkwalks Week 2 Screenshot 9](screenshots/2026-11-12_00-00.png)
 
 
 
