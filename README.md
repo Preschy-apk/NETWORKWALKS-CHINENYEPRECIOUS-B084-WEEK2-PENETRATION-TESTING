@@ -202,6 +202,9 @@ All testing activities documented in this repository were conducted for educatio
 ## Full Week 2 Penetration Testing Report
 [View or Download My Full Week 2 Penetration Testing Report (PDF)](reports/Chinenye_Precious_Ubosi_Week2_Penetration_Testing_Report_Draft.pdf)
 
+## Permissions
+[Week 2 Sample Permission Letter (PDF)](reports/W2-PM-Sample%20Permission%20Letter%20v2.pdf)
+
 **Training Platform:** Networkwalks  
 **Project Category:** Cybersecurity | Ethical Hacking | Footprinting | Network Reconnaissance  
 **Author:** Chinenye Precious Ubosi
