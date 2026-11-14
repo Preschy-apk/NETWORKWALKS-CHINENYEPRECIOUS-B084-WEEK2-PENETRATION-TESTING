@@ -170,7 +170,7 @@ The topology visualization provided a graphical representation of the discovered
 ![Networkwalks Week 2 Screenshot 8](screenshots/2026-11-11_23-57.png)
 ![Networkwalks Week 2 Screenshot 9](screenshots/2026-11-12_00-00.png)
 ![Networkwalks Week 2 Screenshot 10](screenshots/2026-11-14_05-21.png)
-
+![Networkwalks Week 2 Screenshot 11](screenshots/2026-11-14_04-06.png)
 
 ## 8. Lessons Learned
 
@@ -198,6 +198,8 @@ It also reinforced the importance of obtaining authorization before conducting p
 All testing activities documented in this repository were conducted for educational and authorized cybersecurity training purposes. Testing was performed within the scope of the permission granted. The information is shared for learning and portfolio documentation.
 
 ---
+## 11.Final Report.
+
 
 **Training Platform:** Networkwalks  
 **Project Category:** Cybersecurity | Ethical Hacking | Footprinting | Network Reconnaissance  
