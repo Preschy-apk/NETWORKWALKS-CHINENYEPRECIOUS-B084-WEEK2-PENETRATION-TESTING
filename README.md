@@ -161,6 +161,13 @@ The topology visualization provided a graphical representation of the discovered
 
 ## 7. Evidence and Screenshots
 ![Networkwalks Week 2 Screenshot](screenshots/2026-11-11_23-48.png)
+![Networkwalks Week 2 Screenshot 2](screenshots/2026-11-11_23-49.png)
+
+
+
+
+
+
 
 ## 8. Lessons Learned
 
