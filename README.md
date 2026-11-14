@@ -160,7 +160,7 @@ The topology visualization provided a graphical representation of the discovered
 **Important:** These observations are reconnaissance findings and potential areas for security review. They do not independently establish that the website contains exploitable vulnerabilities.
 
 ## 7. Evidence and Screenshots
-
+![Networkwalks Week 2 Screenshot](screenshots/2026-11-11_23-48.png)
 
 ## 8. Lessons Learned
 
